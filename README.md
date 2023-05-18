@@ -15,3 +15,24 @@ Clone the MiDas repo
 
 https://github.com/isl-org/MiDaS
 
+## Robot design
+
+### Hardware used
+
+- Chassis
+- Raspiberry 3b +
+- DC motors
+- Ultrasonic
+- Encoder
+- IMU
+- Breadboard
+- Jumper wires
+- Battery pack
+- Power bank
+
+To run 
+```
+python3 docking_robot.py
+```
+
+Note: This code can be run only in raspberrypi
